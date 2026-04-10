@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and heavy data
+data/
+*.gz
+*.zip
+*.parquet
+
+# Optional local envs
+.venv/
+env/
