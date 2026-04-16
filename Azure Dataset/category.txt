@@ -1,0 +1,4 @@
+vmcategory	value
+Delay-insensitive	51
+Interactive	43
+Unknown	6
