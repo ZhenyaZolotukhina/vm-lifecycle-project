@@ -17,3 +17,22 @@ data/
 # Optional local envs
 .venv/
 env/
+# Google ClusterData 2019 local data
+raw_usage/
+raw_events/
+out/
+processed/
+*.json.gz
+*.parquet
+*.parquet.gz
+*.csv
+*.csv.gz
+*.db
+*.duckdb
+*.log
+
+# Python / notebooks
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
